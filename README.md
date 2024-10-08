@@ -26,7 +26,7 @@ To run this app on your local machine, follow these steps:
     streamlit run app.py
 ```
 
-##Usage
+## Usage
 Once the app is running, you can enter the details for the house:
 
 Number of bedrooms
@@ -40,10 +40,10 @@ Year the house was built or renovated
 Nearby amenities like schools, airport, etc.
 Click on the "Predict" button to get the estimated price for the house.
 
-##Model
+## Model
 The app uses a machine learning model trained on a dataset of historical house prices. The model uses features like the size of the house, number of bedrooms, and proximity to amenities to predict the price.
 
-##Dataset
+## Dataset
 The dataset contains the following columns:
 
 ID
